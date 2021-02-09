@@ -1,1 +1,1 @@
-shodan_api = "Здесь писать API https://www.shodan.io/"
+shodan_api = "Write Here API https://www.shodan.io/"
